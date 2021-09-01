@@ -32,3 +32,4 @@ INSTRUCTIONS ARE INCLUDED
 
 ## other infomation
 If you can contribute anything, then please open a issue and name it for what you want to contribute. example: "3.12 Bios file"
+PS: You can also backup your bios with the DOS Tool in tools/FLASH_DOS_BOOT.zip
