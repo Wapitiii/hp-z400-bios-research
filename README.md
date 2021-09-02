@@ -12,6 +12,7 @@ i also created it, so that the tools and other stuff can't get lost over time
 1.14
 1.17
 3.07
+3.10 bins/7G3_0310.bin (was dumped with Universal BIOS Backup Toolkit v 2.0, might not work)
 3.12 (Mandatory for 6-Core CPU configurations / Lower will probably make your device inoperable)
 3.15
 3.16
